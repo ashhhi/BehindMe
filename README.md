@@ -2,6 +2,8 @@
 
 一个原生、轻量、注重隐私的 macOS 菜单栏“后视镜”应用。
 
+![BehindMe 图标](Assets/AppIcon.png)
+
 ## 当前功能
 
 - 菜单栏常驻
